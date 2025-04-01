@@ -4,9 +4,10 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
     cout << "Hello, World!" << endl;
+    cout << "Git is now tracking this project!" << endl;
+    cout << "Uspe kvs p naqls kaqasl." << endl;
     return 0;
 }
 
